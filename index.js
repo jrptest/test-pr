@@ -1,1 +1,1 @@
-await test2()
+await test3()
